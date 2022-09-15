@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.demoQA.listeners.ExtentReportListener"/>
+    <listener class-name="com.demoQA.listeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test2(failed)" verbose="0">
+    <classes>
+      <class name="com.demoQA.tests.TextBox_Test">
+        <methods>
+          <include name="testEmail"/>
+          <include name="testFullName"/>
+          <include name="afterMethod"/>
+          <include name="after"/>
+          <include name="beforetest"/>
+          <include name="before"/>
+          <include name="testCurrentAdd"/>
+        </methods>
+      </class> <!-- com.demoQA.tests.TextBox_Test -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test thread-count="5" name="Test4(failed)" verbose="0">
+    <classes>
+      <class name="com.demoQA.tests.Test_Interactions">
+        <methods>
+          <include name="verifyTitle"/>
+          <include name="beforeclass"/>
+          <include name="after"/>
+          <include name="afterMethod"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- com.demoQA.tests.Test_Interactions -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+  <test thread-count="5" name="Test9(failed)" verbose="0">
+    <classes>
+      <class name="com.demoQA.tests.ToolTip_Test">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="after"/>
+          <include name="beforeclass"/>
+          <include name="beforetest"/>
+          <include name="verifyHoverText"/>
+        </methods>
+      </class> <!-- com.demoQA.tests.ToolTip_Test -->
+    </classes>
+  </test> <!-- Test9(failed) -->
+  <test thread-count="5" name="Test11(failed)" verbose="0">
+    <classes>
+      <class name="com.demoQA.tests.Alert_Frame_Window_Page_Test">
+        <methods>
+          <include name="testNestedIFrameTitle"/>
+          <include name="beforeclass"/>
+          <include name="afterMethod"/>
+          <include name="after"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- com.demoQA.tests.Alert_Frame_Window_Page_Test -->
+    </classes>
+  </test> <!-- Test11(failed) -->
+  <test thread-count="5" name="Test12(failed)" verbose="0">
+    <classes>
+      <class name="com.demoQA.tests.Browsers_Windows_Test">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="after"/>
+          <include name="afterMethod"/>
+          <include name="verifyNewWindow"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- com.demoQA.tests.Browsers_Windows_Test -->
+    </classes>
+  </test> <!-- Test12(failed) -->
+  <test thread-count="5" name="Test13(failed)" verbose="0">
+    <classes>
+      <class name="com.demoQA.tests.CheckBox_Test">
+        <methods>
+          <include name="testHomeCheckBox"/>
+          <include name="after"/>
+          <include name="before"/>
+          <include name="afterMethod"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- com.demoQA.tests.CheckBox_Test -->
+    </classes>
+  </test> <!-- Test13(failed) -->
+  <test thread-count="5" name="Test14(failed)" verbose="0">
+    <classes>
+      <class name="com.demoQA.tests.Datepicker_Test">
+        <methods>
+          <include name="after"/>
+          <include name="afterMethod"/>
+          <include name="verifyDate"/>
+          <include name="verifyDateByPrevNextBtn"/>
+          <include name="beforetest"/>
+          <include name="beforeclass"/>
+        </methods>
+      </class> <!-- com.demoQA.tests.Datepicker_Test -->
+    </classes>
+  </test> <!-- Test14(failed) -->
+  <test thread-count="5" name="Test15(failed)" verbose="0">
+    <classes>
+      <class name="com.demoQA.tests.Droppable_Test">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="after"/>
+          <include name="verifyAccepatbleDragDrop"/>
+          <include name="beforetest"/>
+          <include name="beforeclass"/>
+        </methods>
+      </class> <!-- com.demoQA.tests.Droppable_Test -->
+    </classes>
+  </test> <!-- Test15(failed) -->
+</suite> <!-- Failed suite [Suite] -->

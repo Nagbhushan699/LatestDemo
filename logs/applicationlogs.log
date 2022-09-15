@@ -1,0 +1,98 @@
+[INFO ] 2022-09-05 20:04:13.935 [main] Element_Page_Test - actual result : Check Box
+[INFO ] 2022-09-05 20:04:13.944 [main] Element_Page_Test - expected result : Check Box
+[INFO ] 2022-09-05 20:04:14.321 [main] Element_Page_Test - actual result : Radio Button
+[INFO ] 2022-09-05 20:04:14.321 [main] Element_Page_Test - expected result : Radio Button
+[INFO ] 2022-09-05 20:04:14.632 [main] Element_Page_Test - actual result : Text Box
+[INFO ] 2022-09-05 20:04:14.633 [main] Element_Page_Test - expected result : Text Box
+[INFO ] 2022-09-05 20:04:34.976 [main] TextBox_Test - actual result : Pune
+[INFO ] 2022-09-05 20:04:34.987 [main] TextBox_Test - expected result : Pune
+[INFO ] 2022-09-05 20:04:35.219 [main] TextBox_Test - actual result : Vasmat
+[INFO ] 2022-09-05 20:04:35.219 [main] TextBox_Test - expected result : Pune
+[INFO ] 2022-09-05 20:04:35.998 [main] TextBox_Test - actual result : Nanded
+[INFO ] 2022-09-05 20:04:35.998 [main] TextBox_Test - expected result : Pune
+[INFO ] 2022-09-05 20:04:36.651 [main] TextBox_Test - actual result : Mumbai
+[INFO ] 2022-09-05 20:04:36.651 [main] TextBox_Test - expected result : Pune
+[INFO ] 2022-09-05 20:04:37.402 [main] TextBox_Test - actual result : bhushan@123
+[INFO ] 2022-09-05 20:04:37.403 [main] TextBox_Test - expected result : bhushan@123
+[INFO ] 2022-09-05 20:04:37.647 [main] TextBox_Test - actual result : karan@124
+[INFO ] 2022-09-05 20:04:37.647 [main] TextBox_Test - expected result : bhushan@123
+[INFO ] 2022-09-05 20:04:38.268 [main] TextBox_Test - actual result : ram@123
+[INFO ] 2022-09-05 20:04:38.269 [main] TextBox_Test - expected result : bhushan@123
+[INFO ] 2022-09-05 20:04:38.952 [main] TextBox_Test - actual result : vaibhav@123
+[INFO ] 2022-09-05 20:04:38.952 [main] TextBox_Test - expected result : bhushan@123
+[INFO ] 2022-09-05 20:04:39.688 [main] TextBox_Test - actual result : Nagbhushan Bhalerao
+[INFO ] 2022-09-05 20:04:39.689 [main] TextBox_Test - expected result : Nagbhushan
+[INFO ] 2022-09-05 20:04:40.292 [main] TextBox_Test - actual result : Karan Ingole
+[INFO ] 2022-09-05 20:04:40.292 [main] TextBox_Test - expected result : Nagbhushan
+[INFO ] 2022-09-05 20:04:40.884 [main] TextBox_Test - actual result : Ram Jamge
+[INFO ] 2022-09-05 20:04:40.884 [main] TextBox_Test - expected result : Nagbhushan
+[INFO ] 2022-09-05 20:04:41.554 [main] TextBox_Test - actual result : Vaibhav Mudhol
+[INFO ] 2022-09-05 20:04:41.554 [main] TextBox_Test - expected result : Nagbhushan
+[INFO ] 2022-09-05 20:04:52.686 [main] RadioButtons_Test - actual result : Radio Button
+[INFO ] 2022-09-05 20:04:52.687 [main] RadioButtons_Test - expected result : Radio Button
+[INFO ] 2022-09-05 20:04:52.915 [main] RadioButtons_Test - actual result : Impressive
+[INFO ] 2022-09-05 20:04:52.915 [main] RadioButtons_Test - expected result : Impressive
+[INFO ] 2022-09-05 20:04:53.245 [main] RadioButtons_Test - actual result : Yes
+[INFO ] 2022-09-05 20:04:53.245 [main] RadioButtons_Test - expected result : Yes
+[INFO ] 2022-09-05 20:05:03.649 [main] Test_Interactions - actual result : Droppable
+[INFO ] 2022-09-05 20:05:03.649 [main] Test_Interactions - expected result : Droppable
+[INFO ] 2022-09-05 20:05:26.204 [main] Widgets_Test - actual result : Widgets
+[INFO ] 2022-09-05 20:05:26.205 [main] Widgets_Test - expected result : Widgets
+[INFO ] 2022-09-05 20:05:26.588 [main] Widgets_Test - actual result : Progress Bar
+[INFO ] 2022-09-05 20:05:26.589 [main] Widgets_Test - expected result : Progress Bar
+[INFO ] 2022-09-05 20:05:37.661 [main] Alert_Test - actual result : You selected Ok
+[INFO ] 2022-09-05 20:05:37.661 [main] Alert_Test - expected result : You selected Ok
+[INFO ] 2022-09-05 20:05:37.859 [main] Alert_Test - actual result : You entered I am Nagbhushan
+[INFO ] 2022-09-05 20:05:37.860 [main] Alert_Test - expected result : You entered I am Nagbhushan
+[INFO ] 2022-09-05 20:05:43.516 [main] Alert_Test - actual result : Alerts
+[INFO ] 2022-09-05 20:05:43.517 [main] Alert_Test - expected result : Alerts
+[INFO ] 2022-09-05 20:05:55.228 [main] Frame_Test - actual result : Frames
+[INFO ] 2022-09-05 20:05:55.228 [main] Frame_Test - expected result : Frames
+[INFO ] 2022-09-05 20:05:55.559 [main] Frame_Test - actual result : This is a sample page
+[INFO ] 2022-09-05 20:05:55.560 [main] Frame_Test - expected result : This is a sample page
+[INFO ] 2022-09-05 20:06:08.539 [main] HomePage_Test - actual result : Elements
+[INFO ] 2022-09-05 20:06:08.539 [main] HomePage_Test - expected result : Elements
+[INFO ] 2022-09-05 20:06:25.264 [main] ToolTip_Test - Actual Result : Nagbhushan
+[INFO ] 2022-09-05 20:06:25.264 [main] ToolTip_Test - expected Result : Nagbhushan
+[INFO ] 2022-09-05 20:06:36.361 [main] ToolTip_Test - Actual Result : 
+[INFO ] 2022-09-05 20:06:36.361 [main] ToolTip_Test - expected Result : You hovered over the Button
+[INFO ] 2022-09-05 20:06:36.845 [main] ToolTip_Test - Actual Result : Tool Tips
+[INFO ] 2022-09-05 20:06:36.845 [main] ToolTip_Test - expected Result : Tool Tips
+[INFO ] 2022-09-05 20:06:47.613 [main] NestedFrames_Test - actual result : Nested Frames
+[INFO ] 2022-09-05 20:06:47.613 [main] NestedFrames_Test - expected result : Nested Frames
+[INFO ] 2022-09-05 20:06:47.973 [main] NestedFrames_Test - actual result : Child Iframe
+[INFO ] 2022-09-05 20:06:47.973 [main] NestedFrames_Test - expected result : Child Iframe
+[INFO ] 2022-09-05 20:06:57.430 [main] Alert_Frame_Window_Page_Test - actual result : Alerts
+[INFO ] 2022-09-05 20:06:57.430 [main] Alert_Frame_Window_Page_Test - expected result : Alerts
+[INFO ] 2022-09-05 20:06:57.649 [main] Alert_Frame_Window_Page_Test - actual result : Frames
+[INFO ] 2022-09-05 20:06:57.650 [main] Alert_Frame_Window_Page_Test - expected result : Frames
+[INFO ] 2022-09-05 20:07:11.460 [main] Browsers_Windows_Test - actual result : Browser Windows
+[INFO ] 2022-09-05 20:07:11.460 [main] Browsers_Windows_Test - expected result : Browser Windows
+[INFO ] 2022-09-05 20:07:11.654 [main] Browsers_Windows_Test - actual result :  
+[INFO ] 2022-09-05 20:07:11.654 [main] Browsers_Windows_Test - expected result : This is a sample page
+[INFO ] 2022-09-05 21:38:53.105 [main] CheckBox_Test - actual result : Check Box
+[INFO ] 2022-09-05 21:38:53.105 [main] CheckBox_Test - expected result : Check Box
+[INFO ] 2022-09-05 21:38:58.790 [main] CheckBox_Test - actual result : Home
+[INFO ] 2022-09-05 21:38:58.790 [main] CheckBox_Test - expected result : Home
+[INFO ] 2022-09-05 21:39:16.180 [main] Datepicker_Test - actual result : 08/15/2015
+[INFO ] 2022-09-05 21:39:16.180 [main] Datepicker_Test - expected result : 08/15/2015
+[INFO ] 2022-09-05 21:39:19.911 [main] Datepicker_Test - actual result : May 16, 2019 11:30 AM
+[INFO ] 2022-09-05 21:39:19.911 [main] Datepicker_Test - expected result : May 16, 2019 11:30 AM
+[INFO ] 2022-09-05 21:39:29.643 [main] Datepicker_Test - actual result : 08/20/2025
+[INFO ] 2022-09-05 21:39:29.643 [main] Datepicker_Test - expected result : 08/15/2015
+[INFO ] 2022-09-05 21:39:30.006 [main] Datepicker_Test - actual result : Date Picker
+[INFO ] 2022-09-05 21:39:30.006 [main] Datepicker_Test - expected result : Date Picker
+[INFO ] 2022-09-05 21:39:43.264 [main] Droppable_Test - actual result : Drop here
+[INFO ] 2022-09-05 21:39:43.265 [main] Droppable_Test - expected result : Dropped!
+[INFO ] 2022-09-05 21:39:47.142 [main] Droppable_Test - actual result : Dropped!
+[INFO ] 2022-09-05 21:39:47.143 [main] Droppable_Test - expected result : Dropped!
+[INFO ] 2022-09-05 21:39:47.240 [main] Droppable_Test - actual result : Droppable
+[INFO ] 2022-09-05 21:39:47.241 [main] Droppable_Test - expected result : Droppable
+[INFO ] 2022-09-05 21:39:47.707 [main] Droppable_Test - actual result : Drop here
+[INFO ] 2022-09-05 21:39:47.707 [main] Droppable_Test - expected result : Drop here
+[INFO ] 2022-09-05 21:40:08.104 [main] ProgressBar_Test - actual result : 70%
+[INFO ] 2022-09-05 21:40:08.105 [main] ProgressBar_Test - expected result : 70%
+[INFO ] 2022-09-05 21:40:08.152 [main] ProgressBar_Test - actual result : Progress Bar
+[INFO ] 2022-09-05 21:40:08.153 [main] ProgressBar_Test - expected result : Progress Bar
+[INFO ] 2022-09-05 21:56:01.678 [main] Datepicker_Test - actual result : Date Picker
+[INFO ] 2022-09-05 21:56:01.687 [main] Datepicker_Test - expected result : Date Picker
